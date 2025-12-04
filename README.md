@@ -1,4 +1,4 @@
-# hypesquadnigger
+# hypesquaremover
 remove or add hypesquad shit
 
 python3 script.py
